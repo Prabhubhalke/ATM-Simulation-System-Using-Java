@@ -230,7 +230,7 @@ enhanced-atm-simulation/
 - ☕ Java Programming Enthusiast
 - 🚀 Software Development Learner
 - 📧 Email: prabhubhalke379@gmail.com
-- 💼 LinkedIn: [Prabhu Bhalke](https://linkedin.com/in/prabhu-bhalke)
+- 💼 LinkedIn: [Prabhu Bhalke](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
 
 ## 📄 License
 
