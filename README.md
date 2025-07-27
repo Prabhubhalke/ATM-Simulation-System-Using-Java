@@ -259,7 +259,7 @@ We welcome contributions! Here's how you can help:
 For questions, support, or collaboration:
 
 - 📧 **Email**: prabhubhalke379@gmail.com
-- 💼 **LinkedIn**: [Prabhu Bhalke](https://linkedin.com/in/prabhu-bhalke)
+- 💼 **LinkedIn**: [Prabhu Bhalke](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/enhanced-atm-simulation/issues)
 
 ## ⭐ Show Your Support
@@ -272,7 +272,7 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 **⭐ Star this repository if you found it useful! ⭐**
 
-*Built with ❤️ by [Prabhu Bhalke](https://linkedin.com/in/prabhu-bhalke)*
+*Built with ❤️ by [Prabhu Bhalke](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)*
 
 </div>
 
